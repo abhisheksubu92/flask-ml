@@ -1,0 +1,4 @@
+pandas
+dill 
+flask 
+sqlalchemy 
