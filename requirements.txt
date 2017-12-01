@@ -2,3 +2,4 @@ pandas
 dill 
 flask 
 sqlalchemy 
+scikit-learn
