@@ -3,6 +3,7 @@ import pandas as pd
 #from sklearn.extern import joblib
 import dill as pickle
 from flask import Flask, jsonify, request,render_template, redirect,url_for
+
 from sqlalchemy import create_engine
 from content_management import content
 
@@ -57,5 +58,6 @@ def prediction():
 
 
 if __name__=='__main__':
+	
 	app.run(debug=True)
 
