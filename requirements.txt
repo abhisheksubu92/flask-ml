@@ -3,3 +3,4 @@ dill
 flask 
 sqlalchemy 
 scikit-learn
+gnuicorn
